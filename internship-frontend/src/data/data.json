@@ -1,0 +1,161 @@
+[
+    {
+      "name": "Finlay Kirk",
+      "jobRole": "Web Developer",
+      "viewOfThem": "Teaching of the great explore of truth, the master builder of human happiness no one rejects,dislikes, or avoids pleasure itself, pleasure itself",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/11.jpg",
+      "title" : "Full Stack Developer"
+    },
+    {
+      "name": "Danette P. Cervantes",
+      "jobRole": "UI & UX Designer",
+      "viewOfThem": "Complete account of the system and expound the actual Contrary to popular belief. Lorem ipsum is not simply random test. it has roots",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/12.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Mateo Granger",
+      "jobRole": "UI & UX Designer",
+      "viewOfThem": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in same form, by injected humour",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/13.jpg",
+      "title" : "Artificial intelligence Engineer"
+    },
+    {
+      "name": "Isobel Thorne",
+      "jobRole": "Full Stack Developer at Shopify",
+      "viewOfThem": "I appreciate the balance between structure and freedom here. Developers are trusted and supported with the right tools. It's a growth-centered environment.",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/14.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Kai Mercer",
+      "jobRole": "Data Scientist at Airbnb",
+      "viewOfThem": "The organization's approach to data ethics is refreshing. Data is handled responsibly while empowering product decisions. A rare and welcome mix of science and responsibility.",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/15.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Elianna Snow",
+      "jobRole": "DevOps Specialist at DigitalOcean",
+      "viewOfThem": "Automation here is done with clarity and purpose. The culture respects both experimentation and stability. It’s a great place to discuss modern infrastructure ideas.",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/16.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Zane Caldwell",
+      "jobRole": "Machine Learning Engineer at Nvidia",
+      "viewOfThem": "There’s no fear of future technologies here. It’s a proactive and bold community. I always leave conversations energized.",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/17.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Noor Delgado",
+      "jobRole": "Information Security Analyst at Atlassian",
+      "viewOfThem": "Security isn't an afterthought in this organization. It’s embedded into the culture from day one. That’s rare, and really valuable.",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/18.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Jasper Lin",
+      "jobRole": "Senior Mobile Engineer at ByteDance",
+      "viewOfThem": "Mobile-first thinking here is not just a slogan. They design experiences that actually feel fluid and modern. It’s a great space for forward-leaning developers.",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/19.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Celeste Holloway",
+      "jobRole": "Creative Technologist at Pinterest",
+      "viewOfThem": "I love the artistic freedom the organization offers. It values emotion, not just execution. That blend of art and tech is beautiful.",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/20.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Rafael Novak",
+      "jobRole": "Platform Engineer at Slack",
+      "viewOfThem": "The team here thinks in systems. Everything feels connected yet independent. It’s an engineer’s dream to work with such modularity.",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/20.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Liana Westbrook",
+      "jobRole": "Digital Strategist at Mailchimp",
+      "viewOfThem": "Strategy is woven into the organization’s DNA. Each initiative feels purposeful and audience-driven. Mentors and creators collaborate with clarity.",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/21.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Beau Chen",
+      "jobRole": "Software Engineering Manager at Stripe",
+      "viewOfThem": "There’s strong technical mentorship built into every layer. The leadership listens, and that makes all the difference. It feels like a collective, not a hierarchy.",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/21.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Ayla Monroe",
+      "jobRole": "Growth Marketer at Canva",
+      "viewOfThem": "Marketing here is smart, honest, and emotionally intelligent. I’ve seen creativity thrive in real time. The energy is simply contagious.",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/22.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Owen Gallagher",
+      "jobRole": "Site Reliability Engineer at GitHub",
+      "viewOfThem": "Resilience isn’t just technical here — it’s cultural. They bounce back quickly and learn faster. A rare and mature approach to scaling systems and teams.",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/22.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Marisol Rivera",
+      "jobRole": "Cloud Security Lead at Palo Alto Networks",
+      "viewOfThem": "I’ve seen firsthand how seriously the team takes security. It’s part of every decision, not a layer added later. Mentoring here means shaping safer futures.",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/23.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Luca Moretti",
+      "jobRole": "Systems Engineer at SAP",
+      "viewOfThem": "Processes here are lean yet precise. The focus on operational excellence stands out. It’s the kind of place where details really matter.",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/23.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Hana Okabe",
+      "jobRole": "Frontend Developer at Notion",
+      "viewOfThem": "Every UI decision is thoughtful here. Accessibility and elegance are treated equally. The frontend community inside this org is top-tier.",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/24.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Ethan Caldwell",
+      "jobRole": "AI Ethics Consultant at MIT Media Lab",
+      "viewOfThem": "Ethics and innovation usually conflict — but not here. The conversations are nuanced, open, and impactful. A future-minded culture, without compromise.",
+      "profilePhoto": "https://randomuser.me/api/portraits/men/24.jpg",
+      "title" : "UI & UX Designer"
+
+    },
+    {
+      "name": "Sophie Tremblay",
+      "jobRole": "Human-Centered AI Designer at IBM Research",
+      "viewOfThem": "This organization puts people at the core of everything tech. The harmony between design and research is unique. I’m constantly inspired by the collaborative mindset.",
+      "profilePhoto": "https://randomuser.me/api/portraits/women/25.jpg",
+      "title" : "UI & UX Designer"
+
+    }
+  ]
+  
