@@ -4,11 +4,9 @@ import TopHeader from './components/TopHeader';
 import Home from './pages/Home';
 import Internships from './pages/Internships';
 import './index.css'; 
-import React from 'react';
 import Login from './pages/Login';
-import Elevation from './components/Elevation';
-import Faq from "./components/Faq";
 import Signuppage from './pages/Singuppage';
+import Events from './pages/Events';
 
 
 
@@ -22,6 +20,7 @@ function App() {
         <Route path="/internships" element={<Internships />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signuppage />} />
+        <Route path="/events" element={<Events />} />
       
         {/* <Route path="/signup" element={<Signuppage />} /> */}
        
