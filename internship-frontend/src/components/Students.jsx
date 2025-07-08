@@ -52,7 +52,7 @@ const Students = () => {
         ))}
       </div>
 
-      {/* Pagination Bar with Dots */}
+      {/* Pagination Bar with Dots Changes */}
       <div className="flex justify-center items-center mt-10 gap-2">
         {Array.from({ length: totalPages }).map((_, index) => (
           <button

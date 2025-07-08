@@ -24,7 +24,7 @@ function App() {
         <Route path="/signup" element={<Signuppage />} />
       
         {/* <Route path="/signup" element={<Signuppage />} /> */}
-       
+       {/*More Routes to be added*/}
       
       </Routes>
     </Router>

@@ -66,5 +66,5 @@ const Mentors = () => {
         </div>
     );
 };
-
+//Mentors component
 export default Mentors;

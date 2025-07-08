@@ -9,7 +9,8 @@ function Navbar() {
       <div className="w-full max-w-7xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between relative">
         {/* Title or Logo */}
         {/* <div className="hidden md:block text-center w-full absolute left-1/2 transform -translate-x-1/2 text-lg font-semibold">
-          RENU SHARMA FOUNDATION
+          RENU SHARMA FOUNDATION  
+          .
         </div> */}
 
         {/* Navigation Links */}

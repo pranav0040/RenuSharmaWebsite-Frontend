@@ -39,7 +39,7 @@ function Testimonial() {
           </div>
         </div>
 
-        {/* Card 2 */}
+        {/* Card 2 Two/}
         <div className="bg-white text-black hover:bg-black hover:text-white p-[22px] group transition-colors duration-300">
           <div>
             <p className="text-lg font-medium text-black group-hover:text-white transition-colors duration-300">

@@ -8,5 +8,5 @@ const Internships = () => {
     </div>
   )
 }
-
+//In Progress
 export default Internships
