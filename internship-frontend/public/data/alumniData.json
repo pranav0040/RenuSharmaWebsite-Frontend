@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Riyanka Ma’am",
+    "role": "UX Designer",
+    "hike": "120%",
+    "companies": ["J.P.Morgan", "Walmart"],
+    "description": "I was assigned a mentor from Microsoft who guided me very well throughout.",
+    "linkedin": "https://linkedin.com/in/",
+    "image": "/images/riyanka.jpg"
+  },
+  {
+    "name": "Deeksha Ma’am",
+    "role": "UX Researcher",
+    "hike": "90%",
+    "companies": ["J.P.Morgan", "Microsoft"],
+    "description": "System Design prep helped me crack Microsoft.",
+    "linkedin": "https://linkedin.com/in/",
+    "image": "/images/deeksha.jpg"
+  },
+  {
+    "name": "Aman Karar Sir",
+    "role": "Interaction Designer",
+    "hike": "80%",
+    "companies": ["Commscope", "Cohesity"],
+    "description": "Consistency and mentoring helped me stay focused.",
+    "linkedin": "https://linkedin.com/in/",
+    "image": "/images/aman.jpg"
+  },
+  {
+    "name": "Simran Kaur",
+    "role": "Product Designer",
+    "hike": "95%",
+    "companies": ["Paytm", "Google"],
+    "description": "Learnt design thinking and was mentored by experts.",
+    "linkedin": "https://linkedin.com/in/",
+    "image": "/images/simran.jpg"
+  },
+  {
+    "name": "Rajat Arora",
+    "role": "UI/UX Designer",
+    "hike": "85%",
+    "companies": ["Zoho", "Flipkart"],
+    "description": "Mock interviews and real-world projects helped a lot.",
+    "linkedin": "https://linkedin.com/in/rajatarora",
+    "image": "/images/rajat.jpg"
+  },
+  {
+    "name": "Megha Sharma",
+    "role": "Visual Designer",
+    "hike": "100%",
+    "companies": ["Adobe", "Amazon"],
+    "description": "Portfolio building sessions boosted my confidence.",
+    "linkedin": "https://linkedin.com/in/meghasharma",
+    "image": "/images/megha.jpg"
+  },
+  {
+    "name": "Anuj Patel",
+    "role": "UX Strategist",
+    "hike": "88%",
+    "companies": ["Infosys", "Atlassian"],
+    "description": "Got placed with strong mentorship and projects.",
+    "linkedin": "https://linkedin.com/in/anujpatel",
+    "image": "/images/anuj.jpg"
+  },
+  {
+    "name": "Sneha Reddy",
+    "role": "UX Writer",
+    "hike": "75%",
+    "companies": ["Swiggy", "Meta"],
+    "description": "Loved the practical focus and mentorship sessions.",
+    "linkedin": "https://linkedin.com/in/snehareddy",
+    "image": "/images/sneha.jpg"
+  },
+  {
+    "name": "Yash Verma",
+    "role": "Design System Specialist",
+    "hike": "110%",
+    "companies": ["TCS", "Airbnb"],
+    "description": "Design systems & Figma deep dives were game changers.",
+    "linkedin": "https://linkedin.com/in/yashverma",
+    "image": "/images/yash.jpg"
+  },
+  {
+    "name": "Tanvi Gupta",
+    "role": "Product UX Analyst",
+    "hike": "92%",
+    "companies": ["Oracle", "Salesforce"],
+    "description": "Transitioned from Dev to UX with expert support.",
+    "linkedin": "https://linkedin.com/in/tanvigupta",
+    "image": "/images/tanvi.jpg"
+  }
+]
