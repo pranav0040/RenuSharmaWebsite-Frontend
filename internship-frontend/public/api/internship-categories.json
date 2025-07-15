@@ -1,0 +1,19 @@
+{
+  "categories": [
+    "UI & UX Intern",
+    "Web Development",
+    "Graphic Design",
+    "AI/ML Intern",
+    "More"
+  ],
+  "cards": [
+    { "src": "/images/uiux.png", "alt": "UI/UX" },
+    { "src": "/images/webdev.png", "alt": "Web Dev" },
+    { "src": "/images/ai.png", "alt": "AI" },
+    { "src": "/images/marketing.png", "alt": "Digital Marketing" },
+    { "src": "/images/social.png", "alt": "Social Media" },
+    { "src": "/images/data.png", "alt": "Data Analysis" },
+    { "src": "/images/remote.png", "alt": "Remote Intern" }
+  ]
+}
+
